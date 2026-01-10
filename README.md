@@ -52,19 +52,43 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 
 ## 📚 WHAT'S INCLUDED
 
-### 1. **emoji_english.py** - Foundation
+### 1. **emoji_english.py** - Foundation (~500 lines)
 - 🎯 **Verb Tenses** - Visual timeline (⏮️ past, 🎯 now, ⏩ future)
 - 🏗️ **Sentence Structure** - Building blocks (👤 + 💪 + 🎯)
 - ⚠️ **Common Mistakes** - See the difference (❌ vs ✅)
 - 📍 **Prepositions** - Visual positions (in 📦, on 📄, at 📍)
 - 🧠 **Vocabulary** - Emoji = instant meaning
 
-### 2. **emoji_english_advanced.py** - Mastery
+### 2. **emoji_english_advanced.py** - Mastery (~650 lines)
 - 🚀 **Phrasal Verbs** - Direction visualization (look 👆 up, look 👇 down)
 - 🎭 **Idioms** - What they REALLY mean (🍰 piece of cake = easy!)
 - 🔥 **Modern Slang** - Gen Z/Millennial (lit, cap, ghosted, bussin)
 - 💬 **Conversation Templates** - How natives actually talk
 - 🎮 **Practice Exercises** - Test your understanding
+
+### 3. **emoji_writing_practice.py** - Writing Coach (~550 lines)
+- ✍️ **Sentence Analysis** - Real-time feedback with emoji guidance
+- ⚠️ **Mistake Detection** - Common errors automatically found
+- 💡 **Improvement Suggestions** - Specific ways to enhance writing
+- 📧 **Email Templates** - Professional, casual, and formal
+- 📝 **Academic Writing** - Essay structure, paragraph templates
+- ✅ **4-Level Checklist** - Basics → Clarity → Engagement → Polish
+
+### 4. **emoji_pronunciation_guide.py** - Sound Mastery (~650 lines)
+- 👄 **Vowel Sounds** - Visual mouth positions (😃 😐 😮)
+- 👅 **Consonant Sounds** - Tongue placement guides
+- ⚠️ **Tricky Pairs** - L/R, TH/S, B/V with visual cues
+- 🎵 **Stress & Rhythm** - Word stress patterns (📢 BIG, 🤫 small)
+- 🔗 **Linking Sounds** - Natural connected speech
+- 🎯 **Practice Drills** - Tongue twisters, minimal pairs
+
+### 5. **emoji_business_english.py** - Professional Success (~550 lines)
+- 📧 **Business Emails** - Formal/casual templates with formality levels
+- 🤝 **Meeting Language** - Starting, participating, concluding meetings
+- 📊 **Presentations** - Structure, transitions, Q&A handling
+- 🤝 **Networking** - Professional introductions, small talk, exits
+- 💪 **Power Words** - Weak → Strong vocabulary upgrades
+- ⚠️ **Common Mistakes** - Business communication errors to avoid
 
 ---
 
@@ -75,14 +99,25 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 git clone https://github.com/BlackRoad-OS/english-revolution.git
 cd english-revolution
 
-# Run basic English lessons
+# Run basic English lessons (grammar foundation)
 python3 emoji_english.py
 
-# Run advanced lessons
+# Run advanced lessons (phrasal verbs, idioms, slang)
 python3 emoji_english_advanced.py
+
+# Practice writing with emoji feedback
+python3 emoji_writing_practice.py
+
+# Master pronunciation with visual guides
+python3 emoji_pronunciation_guide.py
+
+# Learn professional/business English
+python3 emoji_business_english.py
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
+
+**Total Content:** 5 complete systems, 2,900+ lines of educational code, $0 cost.
 
 ---
 
