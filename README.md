@@ -90,6 +90,24 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💪 **Power Words** - Weak → Strong vocabulary upgrades
 - ⚠️ **Common Mistakes** - Business communication errors to avoid
 
+### 6. **emoji_specialized_english.py** - Context-Specific (~500 lines) ✨ NEW!
+- ✈️ **Travel English** - Hotels, restaurants, airports, emergencies
+- 💻 **Tech English** - Code reviews, stand-ups, Slack/chat language
+- 🏥 **Medical English** - Doctors, pharmacy, emergency phrases
+- 🍽️ **Restaurant Menu** - Visual emoji ordering guide
+- 🚨 **Emergency Phrases** - Critical survival language
+- 🌍 **Real-World Ready** - Practical phrases for every situation
+
+### 7. **interactive-demo.html** - Live Web Demo ✨ NEW!
+- 🎮 **Interactive Quiz** - Test your knowledge with instant feedback
+- 📖 **Visual Learning** - See verb tenses, phrasal verbs in action
+- ✍️ **Writing Analyzer** - Get real-time emoji feedback on sentences
+- 🎯 **Flashcards** - Click to flip and practice
+- 📊 **Progress Tracking** - Watch your learning progress
+- 🎨 **BlackRoad Design** - Beautiful gradient UI, smooth animations
+- 📱 **Mobile Responsive** - Works on any device
+- 🌐 **No Backend** - Pure client-side, works offline
+
 ---
 
 ## 🚀 QUICK START
@@ -113,11 +131,17 @@ python3 emoji_pronunciation_guide.py
 
 # Learn professional/business English
 python3 emoji_business_english.py
+
+# Learn situation-specific English (travel, tech, medical)
+python3 emoji_specialized_english.py
+
+# Or open the interactive web demo in your browser!
+open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 5 complete systems, 2,900+ lines of educational code, $0 cost.
+**Total Content:** 7 complete systems (6 Python modules + 1 interactive HTML demo), 3,800+ lines of educational code, $0 cost.
 
 ---
 
