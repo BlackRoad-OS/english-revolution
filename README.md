@@ -151,7 +151,7 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 🎯 **Real Templates** - How natives ACTUALLY talk, not robotic scripts!
 - 🗣️ **THE REVOLUTION** - Traditional courses teach robots. We teach humans!
 
-### 12. **emoji_listening_comprehension.py** - Finally Understand Natives! (~650 lines) 🔥 CRITICAL!
+### 12. **emoji_listening_comprehension.py** - Finally Understand Natives! (~650 lines) 🔥
 - 🎧 **Why Natives Sound Fast** - SECRET: They're not! They use shortcuts!
 - 📝 **Common Contractions** - wanna, gonna, gotta, didja, lemme, gimme
 - 👻 **Disappearing Sounds** - Dropped G (goin'), T→D (water=wader), weak vowels
@@ -161,6 +161,19 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 🎧 **Listening Practice** - Shadowing, subtitles progression, daily routine
 - 💡 **THE BREAKTHROUGH** - Written ≠ Spoken! "Do you want to" = "Juwanna"!
 - 🗣️ **NO OTHER COURSE** - First to explain WHY natives sound different!
+
+### 13. **emoji_grammar_mistakes.py** - Fix Errors FOREVER! (~750 lines) 🔥 ESSENTIAL!
+- 📰 **Article Mistakes** - a, an, the, or nothing? (Patterns revealed!)
+- ⏰ **Verb Tense Errors** - Since/for, past/perfect (time decoded!)
+- 📍 **Preposition Confusion** - in/on/at (visual system: 📍point 📄surface 📦inside)
+- 👥 **Subject-Verb Agreement** - He/she/it = special! (doesn't not don't!)
+- 🔢 **Word Order** - Why "very good" not "good very" (adjective before noun!)
+- 😵 **Common Confusions** - your/you're, there/their/they're, than/then
+- 🚫 **False Friends** - embarazada ≠ embarrassed! (Dangerous look-alikes!)
+- 🎂 **Age & Measures** - "I AM 20" not "I have 20" (state not possession!)
+- 📊 **Comparatives** - "better" not "more better" (no double comparatives!)
+- 🔢 **Countable/Uncountable** - much money, many apples (count rules!)
+- 💡 **THE REVOLUTION** - Patterns > Rules! Understanding WHY > Being marked wrong!
 
 ---
 
@@ -204,13 +217,16 @@ python3 emoji_conversation_english.py
 # Finally understand native speakers (wanna, gonna, gotta!)
 python3 emoji_listening_comprehension.py
 
+# Fix grammar mistakes FOREVER (articles, tenses, prepositions!)
+python3 emoji_grammar_mistakes.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 12 complete systems (11 Python modules + 1 interactive HTML demo), 7,945 lines of educational code, $0 cost.
+**Total Content:** 13 complete systems (12 Python modules + 1 interactive HTML demo), 8,716 lines of educational code, $0 cost.
 
 ---
 
@@ -391,8 +407,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Idiom etymology course:** $200-400+
 - **Conversation coaching:** $500+ (or $100/hour private)
 - **Listening comprehension:** $400+ (or $100/hour private)
+- **Grammar correction course:** $300-500+ (or $100/hour private)
 
-**Total value destroyed:** $4,900 - $15,500+
+**Total value destroyed:** $5,200 - $16,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
