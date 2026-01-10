@@ -231,6 +231,17 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💻 **Virtual Presenting** - Zoom/Teams mastery (look at camera, energy up 20%!)
 - 🎤 **THE REVOLUTION** - Public speaking = FORMULAS! TED Talks use structure! $0 > $10,000!
 
+### 19. **emoji_negotiation_english.py** - $30,000 Negotiation Training EXPOSED! (~1,120 lines) 🔥 GET WHAT YOU WANT!
+- 🧠 **Negotiation Psychology** - 6 Principles of Influence (Cialdini decoded!)
+- ⚓ **Anchoring Effect** - First number = reference point (control the anchor!)
+- 💰 **Salary Negotiation** - NEVER give number first! Get $10K-50K more!
+- 🤝 **Business Deal Tactics** - BATNA, IF/THEN trading, silence = power!
+- 🎯 **Persuasion Techniques** - Problem-Agitate-Solve, Feel-Felt-Found, cognitive biases!
+- ⚔️ **Conflict Resolution** - Acknowledge→Listen→Mirror→Collaborate (turn enemies to allies!)
+- 💬 **Objection Handling** - Scripts for "too expensive", "need to think", "happy with current"!
+- 🎭 **Advanced Tactics** - The Flinch, The Nibble, Good Cop/Bad Cop, Deadline pressure!
+- 🤝 **THE REVOLUTION** - Negotiation = PSYCHOLOGY + SCRIPTS! $0 > $30,000!
+
 ---
 
 ## 🚀 QUICK START
@@ -291,13 +302,16 @@ python3 emoji_email_mastery.py
 # MASTER presentations & public speaking (TED Talk formulas, Q&A, slides!)
 python3 emoji_presentation_english.py
 
+# MASTER negotiation & persuasion (salary, deals, conflict resolution!)
+python3 emoji_negotiation_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 18 complete systems (17 Python modules + 1 interactive HTML demo), 13,048 lines of educational code, $0 cost.
+**Total Content:** 19 complete systems (18 Python modules + 1 interactive HTML demo), 14,166 lines of educational code, $0 cost.
 
 ---
 
@@ -484,8 +498,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Academic writing + University prep:** $1,000-5,000+ (courses + prep programs)
 - **Email mastery courses:** $500-2,000+ (copywriting + cold email + etiquette)
 - **Public speaking + Presentation training:** $1,000-15,000+ (courses + TED coaching + executive presence)
+- **Negotiation + Persuasion training:** $2,000-30,000+ (exec coaching + sales training + conflict resolution)
 
-**Total value destroyed:** $9,000 - $43,000+
+**Total value destroyed:** $11,000 - $73,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
