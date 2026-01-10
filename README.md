@@ -242,6 +242,17 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 🎭 **Advanced Tactics** - The Flinch, The Nibble, Good Cop/Bad Cop, Deadline pressure!
 - 🤝 **THE REVOLUTION** - Negotiation = PSYCHOLOGY + SCRIPTS! $0 > $30,000!
 
+### 20. **emoji_networking_english.py** - $15,000 Networking Courses DESTROYED! (~1,100 lines) 🔥 BUILD YOUR EMPIRE!
+- 🧠 **Networking Psychology** - Give before take! Build when you DON'T need anything!
+- 💬 **Small Talk Mastery** - FORD Method (Family/Occupation/Recreation/Dreams), get past surface!
+- 🤝 **Building Genuine Connections** - Stranger→Acquaintance→Friend→Ally→Advocate (4 levels!)
+- 💼 **LinkedIn Mastery** - Profile optimization, content strategy, connection requests (personalize!)
+- 🔄 **Relationship Maintenance** - Touch point system: Tier 1 (2-4wks), Tier 2 (2-3mo), Tier 3 (6-12mo)!
+- 💝 **The Giving Framework** - Share knowledge, make intros, amplify work, feedback, celebrate wins!
+- ⏰ **Staying Top of Mind** - Weekly/monthly/quarterly tasks (system = consistency!)
+- 📧 **Follow-Up Scripts** - 24hr follow-up, reconnection after months/years, value-first messages!
+- 🤝 **THE REVOLUTION** - Networking = GENUINE RELATIONSHIPS! Quality > Quantity! $0 > $15,000!
+
 ---
 
 ## 🚀 QUICK START
@@ -305,13 +316,16 @@ python3 emoji_presentation_english.py
 # MASTER negotiation & persuasion (salary, deals, conflict resolution!)
 python3 emoji_negotiation_english.py
 
+# MASTER networking & relationships (LinkedIn, small talk, connections!)
+python3 emoji_networking_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 19 complete systems (18 Python modules + 1 interactive HTML demo), 14,166 lines of educational code, $0 cost.
+**Total Content:** 20 complete systems (19 Python modules + 1 interactive HTML demo), 15,262 lines of educational code, $0 cost.
 
 ---
 
@@ -499,8 +513,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Email mastery courses:** $500-2,000+ (copywriting + cold email + etiquette)
 - **Public speaking + Presentation training:** $1,000-15,000+ (courses + TED coaching + executive presence)
 - **Negotiation + Persuasion training:** $2,000-30,000+ (exec coaching + sales training + conflict resolution)
+- **Networking + Relationship courses:** $1,000-15,000+ (networking coaching + LinkedIn optimization + personal branding)
 
-**Total value destroyed:** $11,000 - $73,000+
+**Total value destroyed:** $12,000 - $88,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
