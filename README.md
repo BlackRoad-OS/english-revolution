@@ -306,6 +306,15 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📝 **Vocabulary Journal** - Better than flashcards! Word + Definition + Example + Your sentence + Collocations + Word family!
 - 📚 **THE REVOLUTION** - Vocabulary = SCIENCE! Word families = multiplier effect! Context > Memorization! Spaced repetition = FREE algorithm! $0 > $3,000!
 
+### 26. **emoji_advanced_grammar.py** - $5,000 Advanced Grammar Courses DESTROYED! (~997 lines) 🔥 GRAMMAR MASTERY COMPLETE!
+- 🔄 **Conditionals Mastery** - All 4 types decoded (Zero = facts, First = real future, Second = unreal now, Third = unreal past)! Mixed conditionals revealed!
+- 🎭 **Subjunctive Mood** - Mandative subjunctive (suggest that he GO base verb!), 'were' for all persons (If I were you), wishes and regrets!
+- ⏰ **Perfect Tenses** - Present perfect (HAVE + past participle), Past perfect (HAD + past participle), Future perfect (WILL HAVE + past participle)! Time relationships revealed!
+- 🤔 **Modal Verbs Advanced** - Should have (regret/criticism), Could have (ability didn't/possibility), Would have (hypothetical past), Must have/Can't have (deduction)!
+- 🔄 **Passive Voice Mastery** - All 10 tenses with BE + past participle formula! By-agent usage rules, get-passive informal alternative!
+- 📐 **Formula-Based Learning** - Every grammar structure = clear formula! IF + PRESENT, WILL + VERB (predictable patterns!)
+- 🎯 **THE REVOLUTION** - Advanced grammar = FORMULAS! Conditionals = patterns! Modal perfects = regret/deduction system! $0 > $5,000!
+
 ---
 
 ## 🚀 QUICK START
@@ -387,13 +396,16 @@ python3 emoji_accent_reduction.py
 # MASTER vocabulary building (word families, memory techniques, context learning!)
 python3 emoji_vocabulary_mastery.py
 
+# MASTER advanced grammar (conditionals, subjunctive, perfect tenses, modals, passive!)
+python3 emoji_advanced_grammar.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 25 complete systems (24 Python modules + 1 interactive HTML demo), 21,356 lines of educational code, $0 cost.
+**Total Content:** 26 complete systems (25 Python modules + 1 interactive HTML demo), 22,353 lines of educational code, $0 cost.
 
 ---
 
@@ -587,8 +599,9 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Communication + Humor coaching:** $5,000-15,000+ (executive presence + humor workshops + communication training)
 - **Accent reduction + Pronunciation:** $2,500-8,000+ (accent coaching + speech therapy + pronunciation courses)
 - **Vocabulary + Memory training:** $600-5,500+ (vocab apps $100-500/yr + courses $500-2,000 + GRE/SAT prep $1,000-3,000)
+- **Advanced grammar courses:** $500-5,000+ (conditionals + subjunctive + perfect tenses + modal perfects + passive voice mastery)
 
-**Total value destroyed:** $30,100 - $186,500+
+**Total value destroyed:** $30,600 - $191,500+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
