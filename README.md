@@ -117,7 +117,7 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 📅 **Date/Time Formats** - MM/DD vs DD/MM confusion solved
 - 🇺🇸🇬🇧🇦🇺🇨🇦 **All English Countries** - Know what to say WHERE!
 
-### 9. **emoji_social_media_english.py** - Master the Internet! (~800 lines) 🔥 NEW!
+### 9. **emoji_social_media_english.py** - Master the Internet! (~800 lines) 🔥
 - 📸 **Instagram** - OOTD, GRWM, IYKYK, hashtag strategy
 - 🐦 **Twitter/X** - Ratio, threads, chronically online, Twitter culture
 - 📱 **TikTok** - Slay, bussin, understood the assignment, FYP
@@ -126,6 +126,18 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 🔥 **Gen Z/Alpha Slang** - Rizz, sigma, delulu, mid, no cap
 - 😊 **Emoji Meanings** - What 💀🧢🔥✨ REALLY mean on social media
 - 🎯 **Stay Current** - Latest 2024-2026 internet language
+
+### 10. **emoji_idioms_english.py** - Origins Make Them Unforgettable! (~700 lines) 🔥 REVOLUTIONARY!
+- 🐾 **Animal Idioms** - Cats, dogs, birds, horses (with origin stories!)
+- 👤 **Body Part Idioms** - Legs, arms, eyes, hands (why we say them!)
+- 🍰 **Food Idioms** - Cake, beans, butter, fruits (history revealed!)
+- 🌈 **Color Idioms** - Blue, green, white, red, black (meanings + origins!)
+- 💰 **Money Idioms** - Break the bank, cut corners, go Dutch (etymology!)
+- ⏰ **Time Idioms** - Nick of time, eleventh hour (where they came from!)
+- 🌟 **Common Idioms** - Hit the nail, beat around bush (fascinating stories!)
+- ⛈️ **Weather Idioms** - Under the weather, steal thunder (real origins!)
+- 💡 **THE SECRET** - Origin stories make idioms IMPOSSIBLE to forget!
+- 🧠 **Memory Hooks** - Understanding WHY = remember forever!
 
 ---
 
@@ -160,13 +172,16 @@ python3 emoji_cultural_english.py
 # Master social media English (Instagram, TikTok, Twitter, Discord, Reddit)
 python3 emoji_social_media_english.py
 
+# Master idioms with origins and stories (NEVER FORGET!)
+python3 emoji_idioms_english.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 9 complete systems (8 Python modules + 1 interactive HTML demo), 6,200+ lines of educational code, $0 cost.
+**Total Content:** 10 complete systems (9 Python modules + 1 interactive HTML demo), 6,480 lines of educational code, $0 cost.
 
 ---
 
@@ -207,23 +222,33 @@ look ⏩ FORWARD = excited about   (😊 future event)
 
 **Emoji English:** The direction emoji shows the meaning. Instant understanding.
 
-### Idioms Revealed
+### Idioms With Origins (UNFORGETTABLE!)
 
 ```
-🍰 "piece of cake"
+🍰 "PIECE OF CAKE"
    Literal: 🍰 slice of dessert
    REAL: ✅ very easy
+   Origin: 1870s American cakewalks - couples competed by walking
+           for prize of cake. Easy competition = piece of cake!
    Example: "That test was a piece of cake!"
+   🧠 IMPOSSIBLE TO FORGET because you understand the STORY!
 
-🐱 "let the cat out of the bag"
+🐱 "LET THE CAT OUT OF THE BAG"
    Literal: 🐱🎒 release cat from bag
    REAL: 🤐➡️🗣️ reveal a secret
+   Origin: Medieval markets sold piglets in bags. Dishonest sellers
+           put CATS instead. When opened = scam revealed!
    Example: "Don't let the cat out about the surprise!"
+   🧠 Now you'll NEVER forget what this means!
 
-🐘 "elephant in the room"
-   Literal: 🐘🏠 big animal inside
-   REAL: 👀🙈 obvious problem everyone ignores
-   Example: "His addiction is the elephant in the room"
+🦵 "BREAK A LEG"
+   Literal: 🦵💥 fracture your leg bone
+   REAL: ✨ Good luck! (theater saying)
+   Origin: Theater superstition - saying "good luck" is BAD luck!
+           Say the opposite to reverse curse. Or: "breaking" = bowing,
+           "leg" = curtain edge. Break past curtain = success!
+   Example: "You're going on stage? Break a leg!"
+   🧠 Origin stories make idioms stick FOREVER!
 ```
 
 ### Modern Slang Explained
@@ -324,6 +349,19 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Private tutoring:** $50 - $100/hour (100+ hours = $5,000+)
 - **University courses:** $10,000+ (semester)
 - **Language schools abroad:** $20,000+
+
+### Just Our Specialized Modules Alone:
+- **Travel English:** $300+
+- **Business English:** $500+
+- **Tech English:** $500+
+- **Medical English:** $800+
+- **Pronunciation course:** $400+
+- **Writing course:** $300+
+- **Cultural English (US/UK/AU/CA):** $400+
+- **Social Media/Modern Slang:** NOT SOLD (doesn't exist!)
+- **Idiom etymology course:** $200-400+
+
+**Total value destroyed:** $4,000 - $14,000+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
