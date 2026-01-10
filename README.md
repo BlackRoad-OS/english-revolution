@@ -139,7 +139,7 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💡 **THE SECRET** - Origin stories make idioms IMPOSSIBLE to forget!
 - 🧠 **Memory Hooks** - Understanding WHY = remember forever!
 
-### 11. **emoji_conversation_english.py** - How Natives ACTUALLY Talk! (~750 lines) 🔥 GAME-CHANGER!
+### 11. **emoji_conversation_english.py** - How Natives ACTUALLY Talk! (~750 lines) 🔥
 - 💬 **Small Talk Mastery** - Real starters (not textbook "How are you? I am fine")
 - 👂 **Active Listening** - Make people feel heard, keep conversations flowing
 - 🔀 **Topic Transitions** - Smooth conversation shifts without awkwardness
@@ -150,6 +150,17 @@ Same as our [Quantum Computing Revolution](https://github.com/BlackRoad-OS/quant
 - 💪 **Conversation Confidence** - 5-topic rule, conversation loop, reading the room
 - 🎯 **Real Templates** - How natives ACTUALLY talk, not robotic scripts!
 - 🗣️ **THE REVOLUTION** - Traditional courses teach robots. We teach humans!
+
+### 12. **emoji_listening_comprehension.py** - Finally Understand Natives! (~650 lines) 🔥 CRITICAL!
+- 🎧 **Why Natives Sound Fast** - SECRET: They're not! They use shortcuts!
+- 📝 **Common Contractions** - wanna, gonna, gotta, didja, lemme, gimme
+- 👻 **Disappearing Sounds** - Dropped G (goin'), T→D (water=wader), weak vowels
+- ⚡ **Fast Speech Patterns** - Whatcha doin? Jeet yet? Imma go!
+- 🌍 **Accent Differences** - American vs British vs Australian (decoded!)
+- 🎬 **Movies & TV Comprehension** - Training techniques that WORK!
+- 🎧 **Listening Practice** - Shadowing, subtitles progression, daily routine
+- 💡 **THE BREAKTHROUGH** - Written ≠ Spoken! "Do you want to" = "Juwanna"!
+- 🗣️ **NO OTHER COURSE** - First to explain WHY natives sound different!
 
 ---
 
@@ -190,13 +201,16 @@ python3 emoji_idioms_english.py
 # Master REAL conversations (how natives actually talk!)
 python3 emoji_conversation_english.py
 
+# Finally understand native speakers (wanna, gonna, gotta!)
+python3 emoji_listening_comprehension.py
+
 # Or open the interactive web demo in your browser!
 open interactive-demo.html
 ```
 
 **That's it.** No dependencies. No setup. Just run and learn.
 
-**Total Content:** 11 complete systems (10 Python modules + 1 interactive HTML demo), 7,274 lines of educational code, $0 cost.
+**Total Content:** 12 complete systems (11 Python modules + 1 interactive HTML demo), 7,945 lines of educational code, $0 cost.
 
 ---
 
@@ -375,9 +389,10 @@ Traditional English teaching **ignores neuroscience**. We embrace it.
 - **Cultural English (US/UK/AU/CA):** $400+
 - **Social Media/Modern Slang:** NOT SOLD (doesn't exist!)
 - **Idiom etymology course:** $200-400+
-- **Conversation coaching:** $500+ (or $100/hour private coaching)
+- **Conversation coaching:** $500+ (or $100/hour private)
+- **Listening comprehension:** $400+ (or $100/hour private)
 
-**Total value destroyed:** $4,500 - $15,000+
+**Total value destroyed:** $4,900 - $15,500+
 
 **Total:** $5,000 - $20,000+ for questionable results
 
