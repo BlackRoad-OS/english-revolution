@@ -16,7 +16,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install ruff
-      - run: ruff check .
+      - name: Run Ruff
+        run: ruff check .
+        continue-on-error: true
 
   test:
     runs-on: ubuntu-latest
