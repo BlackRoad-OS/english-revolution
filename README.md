@@ -1,5 +1,10 @@
 # 🔥 EMOJI ENGLISH REVOLUTION 🔥
 
+[![CI](https://github.com/BlackRoad-OS/english-revolution/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-OS/english-revolution/actions/workflows/ci.yml)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+
+> Proprietary software of BlackRoad OS, Inc. See [LICENSE](LICENSE) for terms.
+
 **Learn English 10× faster using emoji visualization**
 
 Stop memorizing. Start **seeing**.
