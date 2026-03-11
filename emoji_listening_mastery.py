@@ -675,7 +675,7 @@ def podcast_lecture_strategies():
     print("   Go back to difficult parts:")
     print("   • Re-listen to confusing sections")
     print("   • Verify your notes")
-   print("   • Create final summary")
+    print("   • Create final summary")
     print("   → Consolidate understanding")
 
     print("\n   ⚡ WHY IT WORKS:")

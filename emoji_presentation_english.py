@@ -333,7 +333,7 @@ def handling_qa():
 
     print("\n" + "="*70)
     print("🎯 Q&A STRUCTURE")
-print("="*70)
+    print("="*70)
 
     print("\n📝 THE FORMULA:")
     print("   1. LISTEN fully (don't interrupt)")
